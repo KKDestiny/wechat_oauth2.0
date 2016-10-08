@@ -5,6 +5,7 @@ Node.js通过微信网页授权机制获取用户信息
 需要安装一个组件：
 
 > npm install
+
 > npm install request --save
 
 
